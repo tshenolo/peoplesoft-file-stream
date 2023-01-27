@@ -93,10 +93,10 @@ catch Exception &Err
 end-try;
 ```
 
-### Pages    
-Page: MXM_FILE_STRM      
-Title: Stream File   	
-MXM_FILE_STRM.URL   
+### Pages      
+Page: MXM_FILE_STRM         
+Title: Stream File   
+MXM_FILE_STRM.URL      
 MXM_FILE_STRM.FILENAME   
 MXM_FILE_STRM.SUBMIT_BTN   
 MXM_FILE_STRM.DESCRLONG 
